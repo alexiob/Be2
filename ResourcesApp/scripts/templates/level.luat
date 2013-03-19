@@ -1,0 +1,21 @@
+-- level.luat
+-- required format arguments:
+--    custom definition (NSString)
+
+
+local T = {}
+local T_mt = {__index = T}
+
+-- start custom definitions
+-- all functions MUST START with "T:"
+
+%@
+
+-- end custom definitions
+
+setmetatable (T, {__index = Level})
+
+level = T
+
+T:init ()
+

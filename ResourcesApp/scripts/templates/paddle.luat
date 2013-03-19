@@ -1,0 +1,24 @@
+-- paddle.luat
+-- required format arguments:
+--    custom definition (NSString)
+--    paddle.index (int)
+
+do
+	local T = {}
+	local T_mt = {__index = T}
+
+	-- start custom definitions
+	-- all functions MUST START with "T:"
+
+%@
+
+	-- end custom definitions
+
+
+	setmetatable (T, {__index = Paddle})
+
+	T.index = %d
+	level.paddles[T.index] = T
+
+	T:init ()
+end

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1">
+   <SymbolicBreakpoints>
+      <SymbolicBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         symbolName = "malloc_error_break">
+      </SymbolicBreakpoint>
+      <SymbolicBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         symbolName = "opengl_error_break">
+      </SymbolicBreakpoint>
+   </SymbolicBreakpoints>
+   <ExceptionBreakpoints>
+      <ExceptionBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         scope = "1"
+         stopOnStyle = "0">
+      </ExceptionBreakpoint>
+   </ExceptionBreakpoints>
+</Bucket>

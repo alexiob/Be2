@@ -1,0 +1,232 @@
+<resources>
+<game_profile_page_info>
+  <has_achievements>true</has_achievements>
+  <has_leaderboards>true</has_leaderboards>
+  <has_featured_application>true</has_featured_application>
+  <icon_url>/uploads/application_descriptions/h_icons/82/e8/f9/ce/27814/be2iconiphone.png</icon_url>
+  <has_ipurchase>true</has_ipurchase>
+  <timestamp>2010-10-05 09:20:40</timestamp>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <has_chat_rooms>true</has_chat_rooms>
+  <name>Be2 - Escape from Pingland</name>
+  <has_challenges>false</has_challenges>
+  <short_name>Be2</short_name>
+  <id>89872</id>
+  <suggestions_topic_id>224522</suggestions_topic_id>
+</game_profile_page_info>
+<offline>
+<timestamp>2010-10-05 09:20:40</timestamp>
+<leaderboards>
+<leaderboard>
+<id>332743</id>
+<name>Pingland</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-06 08:09:02 UTC</created_at>
+<updated_at>2010-05-06 12:11:46 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>1</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>332763</id>
+<name>Roller Squarester</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-06 08:11:07 UTC</created_at>
+<updated_at>2010-05-18 13:11:52 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>2</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>347913</id>
+<name>Doodle Paddles</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-18 14:34:33 UTC</created_at>
+<updated_at>2010-05-19 08:36:23 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>4</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>349023</id>
+<name>SQUAREST QUESTS</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-19 09:08:34 UTC</created_at>
+<updated_at>2010-05-19 09:08:34 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>332753</id>
+<name>Dungeon Of Squares</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-06 08:10:42 UTC</created_at>
+<updated_at>2010-05-25 15:28:18 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>3</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>358433</id>
+<name>Free Falling</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-05-25 17:34:56 UTC</created_at>
+<updated_at>2010-05-25 17:35:10 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>5</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>374823</id>
+<name>Ponganoid</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-06-08 16:10:31 UTC</created_at>
+<updated_at>2010-06-08 16:10:46 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>6</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>388093</id>
+<name>Pingfall</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-06-22 15:37:11 UTC</created_at>
+<updated_at>2010-06-22 15:37:30 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>7</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>407283</id>
+<name>Square Machine</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-07-07 22:45:48 UTC</created_at>
+<updated_at>2010-07-07 22:47:01 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>8</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>407303</id>
+<name>The Last Paddle Standing</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-07-07 22:46:40 UTC</created_at>
+<updated_at>2010-07-07 22:47:01 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>10</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+<leaderboard>
+<id>407293</id>
+<name>Obey Or Not</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>89872</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-07-07 22:46:14 UTC</created_at>
+<updated_at>2010-07-20 17:16:18 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>9</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2010-10-05 09:20:40</timestamp>
+</leaderboard>
+</leaderboards>
+</offline>
+
+</resources>

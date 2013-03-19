@@ -1,0 +1,24 @@
+-- screen.luat
+-- required format arguments:
+--    custom definition (NSString)
+--    screen.index (int)
+
+do
+	local T = {}
+	local T_mt = {__index = T}
+
+	-- start custom definitions
+	-- all functions MUST START with "T:"
+
+%@
+
+	-- end custom definitions
+
+
+	setmetatable (T, {__index = Screen})
+
+	T.index = %d
+	level.screens[T.index] = T
+
+	T:init ()
+end
