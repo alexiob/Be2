@@ -6,7 +6,7 @@ Be2 - Escape from Pingland
 This is the source code for my iOS game "Be2 - Escape from Pingland". 
 It was featured in the "News & Noteworthy" section of the US App Store and many others.
 
-Do whatever you want with it. Just say "Hi!" to me if you find it interesting!
+Do whatever you want with it. Just say ["Hi!" to me at alessandro.iob@gmail.com](mailto:alessandro.iob@gmail.com) if you find it interesting!
 
 ![Pingfall](Slides/s1.jpg "Pingfall")
 
