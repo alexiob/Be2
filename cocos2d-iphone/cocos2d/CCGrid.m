@@ -51,7 +51,7 @@
 
 +(id) gridWithSize:(ccGridSize)gridSize
 {
-	return [[[self alloc] initWithSize:gridSize] autorelease];
+//	return [[[self alloc] initWithSize:gridSize] autorelease];
 }
 
 -(id) initWithSize:(ccGridSize)gridSize texture:(CCTexture2D*)texture flippedTexture:(BOOL)flipped
