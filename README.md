@@ -3,9 +3,9 @@ Be2 - Escape from Pingland
 
 ![Cover](Slides/s0.jpg "Cover")
 
-[Trailer](https://www.youtube.com/watch?v=dBeq6l7NddA)
+Click the image below to watch the trilling trailer! :-)
 
-[![Watch the Trailer](https://img.youtube.com/vi/dBeq6l7NddA/maxresdefault.jpg)](https://youtu.be/dBeq6l7NddA)
+[![Watch the Trailer](https://img.youtube.com/vi/dBeq6l7NddA/hqdefault.jpg)](https://youtu.be/dBeq6l7NddA)
 
 This is the source code for my iOS game "Be2 - Escape from Pingland". 
 It was featured in the "News & Noteworthy" section of the US App Store and many others.
