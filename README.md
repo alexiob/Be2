@@ -11,6 +11,10 @@ Click the image below to watch the trilling trailer! :-)
 
 [![Watch the Trailer](https://img.youtube.com/vi/dBeq6l7NddA/hqdefault.jpg)](https://youtu.be/dBeq6l7NddA)
 
+There is even an "user guide" video with all the levels inthe game!
+
+[![Watch the Intro](https://img.youtube.com/vi/EpNgiaaRZJk/hqdefault.jpg)](https://youtu.be/EpNgiaaRZJk)
+
 Do whatever you want with it. Just say ["Hi!" to me at alessandro.iob@gmail.com](mailto:alessandro.iob@gmail.com) if you find it interesting!
 
 
