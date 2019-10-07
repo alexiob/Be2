@@ -1,14 +1,15 @@
 Be2 - Escape from Pingland
 ==========================
 
+This is the source code for my iOS game "Be2 - Escape from Pingland", including the level editor Pythin/QT application. 
+
+It was featured in the "News & Noteworthy" section of the US App Store and many others.
+
 ![Cover](Slides/s0.jpg "Cover")
 
 Click the image below to watch the trilling trailer! :-)
 
 [![Watch the Trailer](https://img.youtube.com/vi/dBeq6l7NddA/hqdefault.jpg)](https://youtu.be/dBeq6l7NddA)
-
-This is the source code for my iOS game "Be2 - Escape from Pingland". 
-It was featured in the "News & Noteworthy" section of the US App Store and many others.
 
 Do whatever you want with it. Just say ["Hi!" to me at alessandro.iob@gmail.com](mailto:alessandro.iob@gmail.com) if you find it interesting!
 
