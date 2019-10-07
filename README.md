@@ -8,11 +8,9 @@ It was featured in the "News & Noteworthy" section of the US App Store and many 
 
 Do whatever you want with it. Just say ["Hi!" to me at alessandro.iob@gmail.com](mailto:alessandro.iob@gmail.com) if you find it interesting!
 
+![Trailer](https://www.youtube.com/watch?v=dBeq6l7NddA)
+
 ![Pingfall](Slides/s1.jpg "Pingfall")
-
-You can [download](http://itunes.apple.com/app/id387054918?mt=8) the game from the [AppStore](http://itunes.apple.com/app/id387054918?mt=8).
-
-More info at the [Kismik web site](http://www.kismik.com)
 
 ![Ponganoid](Slides/s2.jpg "Ponganoid")
 
