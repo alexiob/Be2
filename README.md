@@ -1,14 +1,17 @@
 Be2 - Escape from Pingland
 ==========================
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dBeq6l7NddA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Cover](Slides/s0.jpg "Cover")
+
+![Trailer](https://www.youtube.com/watch?v=dBeq6l7NddA)
 
 This is the source code for my iOS game "Be2 - Escape from Pingland". 
 It was featured in the "News & Noteworthy" section of the US App Store and many others.
 
 Do whatever you want with it. Just say ["Hi!" to me at alessandro.iob@gmail.com](mailto:alessandro.iob@gmail.com) if you find it interesting!
 
-![Trailer](https://www.youtube.com/watch?v=dBeq6l7NddA)
 
 ![Pingfall](Slides/s1.jpg "Pingfall")
 
